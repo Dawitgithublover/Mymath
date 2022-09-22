@@ -1,0 +1,14 @@
+
+											body {background-color:rgba(67,99,250,1);color:white}
+											h1 {font-size:2em;font-family:cursive}
+											ul {font-size:1.5em}
+											a {text-decoration:none;color:rgba(250,250,250,1)}; font-size:1.3em;dispaly: inline-block;}
+											div {display:inline-block}
+										a:active {opacity:0.3}
+										.signin {border:2px solid black; padding:10px; background-color:orange; position: relative; right:20px;}
+										.login {border:2px solid black; padding:10px 14px; background-color:orange; position: relative;left:85px}
+										
+																
+											 
+												
+												

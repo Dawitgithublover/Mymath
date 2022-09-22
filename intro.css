@@ -1,0 +1,8 @@
+a {display:block;text-decoration:none;color:rgba(250,60,20,1); font-size:2em;border:2px dotted rgba(250,0,250,0.9); background-color:rgba(45,5,66,1);margin:5px; padding:20px;}
+.heading {text-align:center;border:1px solid lightgreen; background-color:lightblue;color:pink; font-size:1.5em;animation:forheading 5s linear alternate infinite}
+@keyframes forheading {to {transform:skewX(180deg)}}
+.tom1 {animation:tom1anim 5s linear alternate infinite}
+.tom2 {animation:tom2anim 5s linear alternate infinite}
+.tom3 {animation:tom2anim 5s linear alternate infinite}
+@keyframes tom1anim {to {color:green}}
+

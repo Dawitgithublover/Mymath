@@ -1,0 +1,7 @@
+body {background-color:pink}
+.que {font-size:2em;color:black}
+h1 {font-size:3em; animation:heading 5s linear infinite alternate; background-image: linear-gradient(green,yellow,red);color:blue;}
+h2 {color:rgba(8,73,122,0.7); font-size:2.5em;font-family:serif}
+@keyframes heading {25% {background-image: linear-gradient(to right,green,yellow,red)} 50% {background-image: linear-gradient(to left,green,yellow,red)} 75% {background-image: radial-gradient(circle,green,yellow,red)} 100% {background-image: linear-gradient(to bottom,green,yellow,red)}}
+input[type="submit"] {padding:20px; background-color:black;color:white;font-size:2em}
+
